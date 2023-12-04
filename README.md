@@ -27,7 +27,7 @@ This Ruby program is an Anagram Detector that, given a word and a list of possib
 Install the required gems:
 
 bash
-Copy code
+Code;
 bundle install
 Usage
 Open a terminal and navigate to the project directory.
@@ -35,7 +35,7 @@ Open a terminal and navigate to the project directory.
 Run the tests using RSpec:
 
 bash
-Copy code
+Code;
 bundle exec rspec spec/anagram_spec.rb
 Ensure that all tests pass.
 
