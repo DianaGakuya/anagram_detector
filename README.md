@@ -1,4 +1,5 @@
- Anagram Detector
+
+# Anagram Detector
 
 ## Overview
 
@@ -42,9 +43,11 @@ Ensure that all tests pass.
 Explore the app/anagram.rb file to understand the implementation of the Anagram class.
 
 How It Works
+
 The Anagram class uses the initialize method to set the word, and the match method compares the word with a list of possible anagrams, returning the matching ones.
 
 Contributing
+
 If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.
@@ -54,4 +57,5 @@ Push your changes to the branch: git push origin feature-name.
 Create a pull request.
 
 License
+
 This project is licensed under the MIT License.
